@@ -1,0 +1,2 @@
+# real time sheep monitoring system 
+Real-Time Sheep Monitoring System is a computer vision-based project designed to monitor sheep using a live camera feed. It detects and tracks sheep in real-time using object detection models, providing an automated solution for livestock supervision.  This system can assist farmers and livestock managers by reducing the need for constant manual observation, detecting movement patterns, and identifying unusual activity among animals.
